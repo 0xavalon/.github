@@ -1,4 +1,4 @@
-## Hi there 👋, we are launching our app named Wind
+## Hi there 👋, we are launching our app named [Wind](https://wind.app)
 
 <!--
 

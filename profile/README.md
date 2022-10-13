@@ -10,3 +10,5 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+Wind is a decentralised banking replacement built by self-custodial on-chain wallets that facilitate instant, almost free, global payments. We are bringing a familiar Web2 UI running on Web3 technologies, giving the masses access to instant payments, high yield stablecoin strategies, and access to digital assets.

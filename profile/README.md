@@ -12,3 +12,8 @@
 -->
 
 Wind is a decentralised banking replacement built by self-custodial on-chain wallets that facilitate instant, almost free, global payments. We are bringing a familiar Web2 UI running on Web3 technologies, giving the masses access to instant payments, high yield stablecoin strategies, and access to digital assets.
+
+
+<p align="center">
+  <img src="./metrics.svg" alt="metrics" />
+</p>

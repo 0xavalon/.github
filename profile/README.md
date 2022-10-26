@@ -15,5 +15,5 @@ Wind is a decentralised banking replacement built by self-custodial on-chain wal
 
 
 <p align="center">
-  <img src="./metrics.svg" alt="metrics" />
+  <img src="./profile/metrics.svg" alt="metrics" />
 </p>

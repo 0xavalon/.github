@@ -17,3 +17,14 @@ Wind is a decentralised banking replacement built by self-custodial on-chain wal
 <!-- <p align="center">
   <img src="./profile/metrics.svg" alt="metrics" />
 </p> -->
+
+## Build files
+
+- APK v0.8
+  - <https://link.wind.app/apk_v0_8>
+
+<!-- ## Metrics
+
+<p align="center">
+  <img src="https://github.com/0xavalon/.github-private/blob/main/profile/metrics.svg" alt="metrics" />
+</p> -->

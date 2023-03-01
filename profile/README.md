@@ -1,4 +1,4 @@
-## Hi there 👋, we are launching our app named [Wind](https://wind.app)
+## Hi there 👋, we have launched our app (beta version) named [Wind](https://wind.app)
 
 <!--
 
@@ -25,8 +25,12 @@ Wind is a decentralised banking replacement built by self-custodial on-chain wal
 
 ## URLs
 
-- Wind Main: <https://wind.app>
-- Wind Payroll: <https://payroll.wind.app>
+- Wind Website
+  - Main: <https://wind.app>
+  - Payroll: <https://payroll.wind.app>
+- Wind App
+  - Google Playstore: <https://play.google.com/store/apps/details?id=avalon.wind.app>
+  - App Store: `coming soon`
 
 <!-- ## Metrics
 

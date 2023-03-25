@@ -27,7 +27,7 @@ Wind is a decentralised banking replacement built by self-custodial on-chain wal
 
 - Wind Website
   - Main: <https://wind.app>
-  - Payroll: <https://payroll.wind.app>
+  - Payroll: <https://business.wind.app>
 - Wind App
   - Google Playstore: <https://play.google.com/store/apps/details?id=avalon.wind.app>
   - App Store: `coming soon`
